@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>semi 첫 페이지</h1>
+<h1>다은이가 수정함</h1>
 </body>
 </html>
